@@ -14,5 +14,5 @@ Sou um Desenvolvedor Back-End apaixonado por criar arquiteturas robustas e resol
 </p>
 
 ### 📫 Como falar comigo:
-- [LinkedIn]([www.linkedin.com/in/ryan-alveses](https://www.linkedin.com/in/ryan-alveses/))
+- [LinkedIn](https://www.linkedin.com/in/ryan-alveses)
 - [Email](ryanalves1100@gmail.com)
