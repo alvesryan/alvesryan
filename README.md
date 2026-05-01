@@ -1,10 +1,18 @@
-## Olá!!! Este perfil pertence ao Ryan Alves 🐉
-<div align = center>
-  <img align="center" alt="Ryan-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />    
-  <img align="center" alt="Ryan-MySQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />     
-</div>
-  
-  ## 
-<div align = center> 
-  <a href="https://www.linkedin.com/in/ryan-alveses" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>
+# Olá! Eu sou o Ryan 👋
+
+Sou um Desenvolvedor Back-End apaixonado por criar arquiteturas robustas e resolver problemas complexos com código limpo. Atualmente estou a aprofundar os meus conhecimentos no ecossistema Java.
+
+### 🛠️ Tecnologias e Ferramentas:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### 📊 As minhas Estatísticas:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=TEU_NOME_DE_UTILIZADOR&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEU_NOME_DE_UTILIZADOR&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+</p>
+
+### 📫 Como falar comigo:
+- [LinkedIn](www.linkedin.com/in/ryan-alveses)
+- [Email](ryanalves1100@gmail.com)
