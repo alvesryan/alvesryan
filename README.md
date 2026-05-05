@@ -15,6 +15,9 @@ Sou um Desenvolvedor Back-End apaixonado por criar arquiteturas robustas e resol
 </p>
 
 ### 📫 Como falar comigo:
-https://img.shields.io/badge/linkedin-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+<a href="https://www.linkedin.com/in/ryan-alveses">
+  <img src="https://img.shields.io/badge/linkedin-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://img.shields.io/badge/linkedin-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Badge Linkedin">
+</a>
+
 - [LinkedIn](https://www.linkedin.com/in/ryan-alveses)
 - [Email](ryanalves1100@gmail.com)
