@@ -5,6 +5,7 @@ Sou um Desenvolvedor Back-End apaixonado por criar arquiteturas robustas e resol
 ### 📊 As minhas Estatísticas:
 <p align="left">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=alvesryan&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+  <br>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alvesryan&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 </p>
 
