@@ -12,6 +12,13 @@ Sou um Desenvolvedor Back-End apaixonado por criar arquiteturas robustas e resol
 ### 🛠️ Tecnologias e Ferramentas:
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github,java,idea,git,linux&theme=dark&perline=15" alt="My Skills" /></a>
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alvesryan/alvesryan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alvesryan/alvesryan/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alvesryan/alvesryan/output/pacman-contribution-graph.svg">
+</picture>
+
 ### 📫 Como falar comigo:
 <a href="https://www.linkedin.com/in/ryan-alveses">
   <img src="https://img.shields.io/badge/linkedin-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://img.shields.io/badge/linkedin-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Badge Linkedin">
