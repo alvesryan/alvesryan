@@ -10,9 +10,6 @@ Sou um Desenvolvedor Back-End apaixonado por criar arquiteturas robustas e resol
 
 ### 🛠️ Tecnologias e Ferramentas:
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github,java,idea,git,linux&theme=dark&perline=15" alt="My Skills" /></a>
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### 📫 Como falar comigo:
 <a href="https://www.linkedin.com/in/ryan-alveses">
